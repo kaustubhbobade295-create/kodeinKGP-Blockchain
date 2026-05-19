@@ -98,7 +98,7 @@ class Blockchain:
 
 
     
-    # ADD A NEW BLOCK
+    # ADDING A NEW BLOCK
     # Takes the previous block's hash and mines the new one
     
 
